@@ -1,3 +1,5 @@
 .env
 todosapp.db
 .venv
+__paycache__/
+.idea/
